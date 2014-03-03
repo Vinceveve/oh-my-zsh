@@ -22,7 +22,7 @@ h3. Plugins by default
 
 h4. System
 
-apt, debian, copydir, copyfile, cp, sudo, virtualenv, zsh-syntax-highlighting
+apt, debian, sudo, virtualenv, zsh-syntax-highlighting
 
 h4. Versioning
 
@@ -31,7 +31,7 @@ h4. Versioning
 
 h4. Ruby
 
-ruby, gem and capistrano
+ruby, gem
 
 h4. Nodejs
 
@@ -39,4 +39,4 @@ node, npm, bower, grunt
 
 h4. PHP
 
-composer, phing, phpunit, laravel4, symfony
+composer, phpunit, laravel4, symfony

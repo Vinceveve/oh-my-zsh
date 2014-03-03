@@ -19,7 +19,7 @@ COMPLETION_WAITING_DOTS="true"
 # DISABLE_UNTRACKED_FILES_DIRTY="true"
 
 
-plugins=(git git-flow apt debian sudo cp copydir copyfile ruby gem capistrano npm bower grunt composer phing phpunit laravel4 symfony2 zsh-syntax-highlighting virtualenv ant)
+plugins=(git git-flow debian sudo ruby gem npm bower grunt composer phpunit laravel4 symfony2 zsh-syntax-highlighting virtualenv ant redis-cli)
 
 source $ZSH/oh-my-zsh.sh
 
