@@ -21,16 +21,22 @@ h4. via `wget`
 h3. Plugins by default
 
 h4. System
+
 apt, debian, copydir, copyfile, cp, sudo, virtualenv, zsh-syntax-highlighting
 
 h4. Versioning
+
  git and git-flow
+ 
 
 h4. Ruby
+
 ruby, gem and capistrano
 
 h4. Nodejs
+
 node, npm, bower, grunt
 
 h4. PHP
+
 composer, phing, phpunit, laravel4, symfony
