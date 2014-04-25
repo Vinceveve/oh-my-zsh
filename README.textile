@@ -18,6 +18,9 @@ h4. via `wget`
 
 @wget --no-check-certificate https://raw.github.com/Vinceveve/oh-my-zsh/master/tools/install.sh -O - | sh@
 
+
+Changing default shell : chsh ubuntu
+
 h3. Plugins by default
 
 h4. System

@@ -10,7 +10,6 @@ _laravel4 () {
     fi
 }
 
-compdef _laravel4 php artisan
 compdef _laravel4 artisan
 
 #Alias
